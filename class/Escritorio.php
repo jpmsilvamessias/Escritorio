@@ -1,4 +1,8 @@
 <?php
+require_once('Item.php');
+require_once('Armario.php');
+require_once('Gaveta.php');
+
 class Escritorio {
     private array $armarios;
 

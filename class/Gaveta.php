@@ -1,4 +1,5 @@
 <?php
+require_once('Item.php');
 class Gaveta {
     private array $itens;
 
